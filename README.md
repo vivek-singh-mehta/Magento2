@@ -34,7 +34,9 @@ Customer  Import
  - apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
-
+## FilePath
+/pub/media/customerimport/customers.CSV
+/pub/media/customerimport/customers-samplejson.JSON
 ## Configuration
 
 
