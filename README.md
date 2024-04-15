@@ -37,8 +37,9 @@ Customer  Import
 ## FilePath
 /pub/media/customerimport/customers.CSV
 /pub/media/customerimport/customers-samplejson.JSON
-## Configuration
-
+## CLI
+php bin/magento customer:import sample-csv sample.csv
+php bin/magento customer:import sample-json sample.json
 
 
 
