@@ -1,5 +1,7 @@
 # Mage2 Module Vivekmehta Customerimport
 
+    composer require vivekmehta/module-customerimport
+    
     ``vivekmehta/module-customerimport``
 
  - [Main Functionalities](#markdown-header-main-functionalities)
